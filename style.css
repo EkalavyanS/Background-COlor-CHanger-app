@@ -1,0 +1,22 @@
+.header{
+    border: 2px solid black;
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+    display: flex;
+    margin: 5px;
+    padding: 3px;
+}
+button{
+    float: right;
+}
+.Heading{
+    position: relative;
+    left: 600px;
+}
+#Color-Changer-Box{
+    margin: 5px;
+    height: 500px;
+    width: 99%;
+    border:  1px solid black;
+}
